@@ -1,0 +1,11 @@
+{
+  "name":"Criador de Vídeos",
+  "short_name":"Criador Vídeos",
+  "description":"Ferramenta para preparar produtos e criar roteiros para vídeos.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f6f8",
+  "theme_color":"#ff5a1f",
+  "orientation":"portrait",
+  "icons":[{"src":"logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
